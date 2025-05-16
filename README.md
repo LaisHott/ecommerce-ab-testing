@@ -35,10 +35,15 @@ Todos os arquivos de dados estão localizados na pasta `/datasets`.
 
 📦 ecommerce-ab-testing
 ├── 📁 datasets/
+
 │ ├── 📄 hypotheses_us.csv
+
 │ ├── 📄 orders_us.csv
+
 │ └── 📄 visits_us.csv
+
 ├── 📄 README.md
+
 └── 📄 Notebook_Projeto_8.ipynb
 
 ---
